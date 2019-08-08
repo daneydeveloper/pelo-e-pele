@@ -1,0 +1,106 @@
+/*====================================================================
+============================= HEADER =================================
+====================================================================*/
+.main-bar{ /*BORDER-BOTTOM NO HEADER*/
+    border-bottom: 2px solid #f5bebe;
+}
+
+#weight{
+  font-weight: 500!important;
+}
+
+/*====================================================================
+============================= PAGINAS =================================
+====================================================================*/
+.wt-bnr-inr{ /*TITULO-VIEW PAGINAS*/
+    height: 150px;
+}
+.icon-content p {
+    word-break: unset;
+}
+.contact-home-left .Opening-hours ul li span{ /*HORARIO DE FUNCIONAMENTO*/
+    font-weight: 500;
+}
+
+.novidades-titulo{
+  font-size: 22px;
+}
+
+.novidades-paragrafo{
+  font-size: 15px!important;
+}
+.toassim{
+   text-align: center; font-size: 60px!important;
+}
+.font-20{
+   font-size: 20px!important;
+}
+.wt-img-effect img {
+  max-height: 150px!important;
+  max-width: 200px!important;
+  object-fit: cover!important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wt-thum-bx, .wt-post-thum{
+  background-color: transparent;
+}
+
+.border-red{
+  border: 1px solid #8aaa38 !important;
+  border-radius: 6px;
+}
+
+.height-fixed{
+  min-height: 350px !important;
+  max-width: 350px !important;
+  height: 350px !important;
+}
+#slidao{
+  background-color:transparent;padding:0px!important;
+}
+#imgprodutos{
+  background-size: cover!important;
+}
+#descricaocurta{
+  margin-bottom: 10px!important; height: 60px!important;
+}
+.site-footer .widget > .widget-title {
+  letter-spacing: 0.5px;
+}
+@media screen and (max-width: 498px){
+  #funcinapixel{
+    line-height: 60px!important;
+  }
+}
+@media screen and (max-width: 498px){
+  .text-uppercase {
+    text-transform: uppercase!important;
+    font-size: 18px!important;
+  }
+}
+@media screen and (max-width: 991px){
+  #invisiveltexto{
+    display: none!important;
+  }
+}
+/*====================================================================
+============================= FOOTER =================================
+====================================================================*/
+
+.footer-light .footer-top{/*BACKGROUND FOOTER TOP*/
+    background-color: #fff!important;
+}
+
+.footer-light .footer-bottom{/*BACKGROUND COPY*/
+    background-color: #fff!important;
+}
+
+.footer-bottom .copyrights-text{/*COPY TEXTOS*/
+    font-size: 15px;
+}
+
+.pelo-e-pele{
+  color: #8aaa38;
+}
